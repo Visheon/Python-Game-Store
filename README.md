@@ -3,10 +3,11 @@
 A game rental management system for a store that lends out video games and
 board games, built with [`ipywidgets`](https://ipywidgets.readthedocs.io/)
 for the UI. Originally built as a single Google Colab notebook
-(`F529747_CW.ipynb`), this repo splits that notebook into standalone,
-importable Python modules that work together as a normal codebase.
+(`Board Game Store.ipynb`), this repo splits that notebook into standalone,
+importable Python modules that work together as a normal codebase. 
 
-The original notebooks are kept in [`notebooks/`](notebooks/) for reference.
+## This was created as coursework for my first year programming module at loughborough university.
+
 
 ## Features
 
@@ -25,7 +26,7 @@ The original notebooks are kept in [`notebooks/`](notebooks/) for reference.
   last 30 days, last 180 days), plus an "underperformers" view for pruning
   low-performing inventory
 
-## Project layout
+## Project layout for python files
 
 ```
 ├── main.py               # Entry point — launches the dashboard
