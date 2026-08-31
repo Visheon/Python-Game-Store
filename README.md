@@ -15,22 +15,33 @@ importable Python modules that work together as a normal codebase.
   live availability, star ratings, and rent/return actions
 - **Rentals** — rent a game to a customer ID, enforcing per-subscription
   rental limits (Basic vs Premium)
+  
   ![Home Screen](screenshots/home-screen.png)
+  
 - **Returns** — returning a game requires a star rating and optional comment,
   which is saved as feedback
+  
   ![Return Screen](screenshots/return-screen.png)
+  
 - **Reviews** — view all reviews and the average rating for any game
+
   ![Reviews](screenshots/reviews.png)
+
 - **Bookings** — book in-store gaming sessions up to 30 days out, with a
   50-guest capacity limit per time slot and automatic pruning of expired
   bookings
+  
   ![Bookings Screen](screenshots/booking-screen.png)
   ![Bookings](screenshots/bookings.png)
+
 - **Search** — live search across all games by title, genre, or platform
+  
   ![Search](screenshots/search.png)
+  
 - **Analytics** — bar/pie charts of rental counts and star ratings (all-time,
   last 30 days, last 180 days), plus an "underperformers" view for pruning
   low-performing inventory
+  
   ![Analytics Top](screenshots/analytics-top.png)
   ![Analytics](screenshots/analytics.png)
   ![Underperformers](screenshots/underperformers.png)
