@@ -91,7 +91,14 @@ Install dependencies:
 pip install -r requirements.txt
 ```
 
-## Running it
+## Running - Jupyter Notebook
+
+1. Download all files and run google colab
+2. Open the `.ipny` file in colab to load the notebook
+3. Import all the necessary text files using the first cell, by clicking `upload files`
+4. Run the rest of the cells, where after the last one the UI should appear.
+
+## Running - Python Files
 
 1. Make sure `main.py` and the other `.py` files sit in the same folder as
    the `.txt` data files and the two `.pyc` modules (that's already the case
