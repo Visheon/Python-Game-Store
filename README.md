@@ -93,10 +93,16 @@ pip install -r requirements.txt
 
 ## Running - Jupyter Notebook
 
+NOTE - `.pyc` files are in python 3.13.11
+
 1. Download all files and run google colab
 2. Open the `.ipny` file in colab to load the notebook
-3. Import all the necessary text files using the first cell, by clicking `upload files`
-4. Run the rest of the cells, where after the last one the UI should appear.
+3. In your Colab notebook, click Runtime.
+4. Click Change runtime type.
+5. Look for Runtime Version.
+6. Select: 2026.07
+7. Import all the necessary text files using the first cell, by clicking `upload files`
+8. Run the rest of the cells, where after the last one the UI should appear.
 
 ## Running - Python Files
 
