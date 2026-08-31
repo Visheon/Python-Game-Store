@@ -1,0 +1,11 @@
+GameID,Name,NoPlayers,Genre,PurchaseDate,Image
+chs01,Chess,2,Strategy,2025-01-06,https://raw.githubusercontent.com/Visheon/Coursework-Images---Game-Store/main/Chess.jpg
+scr02,Scrabble,2-4,Puzzle,2025-02-04,https://raw.githubusercontent.com/Visheon/Coursework-Images---Game-Store/main/Scrabble.png
+cat03,Catan,3-4,Strategy,2025-02-05,https://raw.githubusercontent.com/Visheon/Coursework-Images---Game-Store/main/Catan.webp
+pan04,Pandemic,2-4,Strategy,2025-03-10,https://raw.githubusercontent.com/Visheon/Coursework-Images---Game-Store/main/Pandemic.jpg
+mon05,Monopoly,2-8,Economic,2025-03-20,https://raw.githubusercontent.com/Visheon/Coursework-Images---Game-Store/main/Monopoly.png
+tri06,Trivial Pursuit,2+,Trivia,2025-04-04,https://raw.githubusercontent.com/Visheon/Coursework-Images---Game-Store/main/Trivial%20Pursuit.png
+lif07,The Game of Life,2-6,Simulation,2025-04-15,https://raw.githubusercontent.com/Visheon/Coursework-Images---Game-Store/main/Game%20of%20Life.png
+clu08,Cluedo,3-6,Deduction,2025-04-25,https://raw.githubusercontent.com/Visheon/Coursework-Images---Game-Store/main/Cluedo.webp
+azu09,Azul,2-4,Abstract,2025-05-06,https://raw.githubusercontent.com/Visheon/Coursework-Images---Game-Store/main/Azul.webp
+won10,7 Wonders,3-7,Civilization,2025-06-10,https://raw.githubusercontent.com/Visheon/Coursework-Images---Game-Store/main/7%20Wonders.png
