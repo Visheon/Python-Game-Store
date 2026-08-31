@@ -1,0 +1,11 @@
+GameID,Name,NoPlayers,Genre,PurchaseDate,Image
+eld01,Elden Ring,1-4,Action RPG,2023-09-12,https://raw.githubusercontent.com/Visheon/Coursework-Images---Game-Store/main/Elden%20Ring.avif
+gta02,GTA V,1-30,Action-Adventure,2023-06-15,https://raw.githubusercontent.com/Visheon/Coursework-Images---Game-Store/main/GTA%20V.jpg
+red03,Red Dead Redemption 2,1-32,Action-Adventure,2023-08-20,https://raw.githubusercontent.com/Visheon/Coursework-Images---Game-Store/main/Red%20Dead.avif
+doo04,Doom Eternal,1,Shooter,2023-11-03,https://raw.githubusercontent.com/Visheon/Coursework-Images---Game-Store/main/Doom%20Eternal.jpeg
+cup05,Cuphead,1-2,Platformer,2024-01-18,https://raw.githubusercontent.com/Visheon/Coursework-Images---Game-Store/main/Cuphead.webp
+hit06,Hitman 3,1,Stealth,2024-03-10, https://raw.githubusercontent.com/Visheon/Coursework-Images---Game-Store/main/Hitman%203.webp
+had07,Hades,1,Roguelike,2023-10-07,https://raw.githubusercontent.com/Visheon/Coursework-Images---Game-Store/main/Hades.png
+sek08,Sekiro: Shadows Die Twice,1,Action,2022-12-09,https://raw.githubusercontent.com/Visheon/Coursework-Images---Game-Store/main/Sekiro.avif
+res09,Resident Evil 4,1,Horror,2024-04-25,https://raw.githubusercontent.com/Visheon/Coursework-Images---Game-Store/main/Resident%20Evil%204.avif
+cyb10,Cyberpunk 2077,1,RPG,2023-07-01,https://raw.githubusercontent.com/Visheon/Coursework-Images---Game-Store/main/cyberpunk.jpg
