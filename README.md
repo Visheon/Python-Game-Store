@@ -8,6 +8,14 @@ importable Python modules that work together as a normal codebase.
 
 ## This was created as coursework for my first year programming module at loughborough university.
 
+## Table of Contents
+- [Features](#Features)
+- [Project Layout: Python](#Project-layout-for-python-files)
+- [Requirements](#Requirements)
+- [Running the program: Jupyter Notebook](#Running---Jupyter-Notebook)
+- [Running the program: Python Files](#Running---Python-Files)
+- [Data Files](#Data-files)
+- [Known Limitations](#Known-limitations)
 
 ## Features
 
